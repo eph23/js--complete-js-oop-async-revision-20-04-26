@@ -7,7 +7,7 @@ const Person = function (firstName, birthYear) {
 
 const eph = new Person('Ephraim', 1988);
 const matilda = new Person('Matilda', 2017);
-const jack = new Person('Jack', 2075);
+const jack = new Person('Jack', 1975);
 
 console.log(eph);
 console.log(matilda);
